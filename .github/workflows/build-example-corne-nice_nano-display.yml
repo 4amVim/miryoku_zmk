@@ -11,3 +11,4 @@ jobs:
       board: '["nice_nano"]'
       shield: '["corne_left","corne_right"]'
       kconfig: '["CONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_WIDGET_BATTERY_STATUS_SHOW_PERCENTAGE=y\nCONFIG_ZMK_WIDGET_WPM_STATUS=y\nCONFIG_ZMK_DISPLAY_INVERT"]'
+      branches: '["zmkfirmware/zmk/main caksoylar/zmk/caksoylar/zen-v1+v2 urob/zmk/mouse-3.2"]'
